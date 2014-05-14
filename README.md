@@ -31,6 +31,16 @@ $ ruby my_server.rb
 Running Noder at 127.0.0.1:1337...
 ```
 
+API
+---
+
+* [HTTP](#http)
+  * [Server](#noderhttpserver)
+  * [Request](#noderhttprequest)
+  * [Response](#noderhttpresponse)
+* [Events](#events)
+  * [EventEmitter](#nodereventseventemitter)
+
 HTTP
 ----
 
