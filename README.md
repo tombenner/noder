@@ -197,7 +197,7 @@ Events
 
 ### Noder::Events::EventEmitter
 
-Include `EventEmitter` in classes which should manage events. For example:
+Include `Noder::Events::EventEmitter` in classes which should manage events. For example:
 
 ```ruby
 class MyServer
