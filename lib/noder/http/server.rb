@@ -54,8 +54,6 @@ module Noder
         case event
         when 'request'
           super('request', callback, argument_keys: [:request, :response])
-        when 'close'
-          super('close', callback)
         else
           super(event, callback)
         end
