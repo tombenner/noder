@@ -57,7 +57,7 @@ Creates the server.
 * `:address` - The server's address (default: `'0.0.0.0'`)
 * `:port` - The server's port (default: `8000`)
 * `:environment` - The server's environment name (default: `'development'`)
-* `:threadpool_size` - The size of the server's threadpool default: `20`)
+* `:threadpool_size` - The size of the server's threadpool (default: `20`)
 * `:enable_ssl` - A boolean of whether SSL is enabled (default: `false`)
 * `:ssl_key` - A filepath to the SSL key (default: `nil`)
 * `:ssl_cert` - A filepath to the SSL cert (default: `nil`)
